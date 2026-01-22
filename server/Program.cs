@@ -1,5 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
+using System.Data;
+
 Console.WriteLine("Привет!");
 Console.WriteLine("Я Грошев Никита Андреевич");
+
+string? group = "ИСП-232";
+string? data = "22.01.2026 00:20:56";
 
 

@@ -15,6 +15,7 @@ Console.WriteLine("4 — Выход");
 
 string? input = Console.ReadLine();
 
+Console.WriteLine();
 switch (input)
 {
     case "1":
